@@ -71,38 +71,3 @@ starkli deploy <compiled_contract_path>
 │── README.md        # Project documentation
 ```
 
-## **Development Roadmap**
-### Phase 1: Smart Contracts (MVP)
-- [ ] Job Listings Contract
-- [ ] User Profiles Contract
-- [ ] Applications Contract
-- [ ] Hiring Flow
-
-### Phase 2: Frontend Integration
-- [ ] React UI with job listings and profiles
-- [ ] StarkNet.js wallet integration
-- [ ] Job posting & application submission
-
-### Phase 3: Decentralized Storage & Payments
-- [ ] Store resumes, job descriptions, and portfolio links on IPFS
-- [ ] Implement escrow payments for freelancers
-
-### Phase 4: Reputation System & DAO
-- [ ] On-chain rating system
-- [ ] Community-governed job approvals
-
-## **Contributing**
-We welcome contributions! To get started:
-1. Fork the repo.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m "Add feature"`).
-4. Push your branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## **License**
-This project is licensed under the MIT License.
-
----
-
-🚀 **Join the Web3 job revolution on StarkNet!** 🚀
-
